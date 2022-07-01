@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Programing
 - 💞️ I like to collaborate on innovative projects
 - 📫 Discord:  Twitter:  Instagram:  Facebook:  E-mail: yoelgasca@hotmail.com
-- 🎊  I'am 25 years old
+- 🎊  I'm 25 years old
 
 <!---
 Yoel-Gasca/Yoel-Gasca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
