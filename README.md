@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yoel-Gasca
 - 👀 I’m interested in Web Development, Video Games and Virtual Environments
-- 🌱 I’m currently learning Web Programing
+- 🌱 I’m currently learning Fullstack development
 - 💞️ I like to collaborate on innovative projects
 - 📫 Twitter: YoelGH97  Instagram: yoel_gh97  E-mail: yoelgasca@hotmail.com
 - 🎊  I'm 25 years old
