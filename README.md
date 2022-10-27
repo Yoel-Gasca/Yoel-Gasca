@@ -7,7 +7,7 @@
 <br>
 
 # Contact
-<a href="https://twitter.com/YoelGH97">![image](https://user-images.githubusercontent.com/83617933/198408630-02678ef2-60ca-4aad-9370-72cebd687e9f.png)alt="YoelGH97" height="30" width="40"</a>
+<a href="https://twitter.com/YoelGH97">![image](https://user-images.githubusercontent.com/83617933/198408630-02678ef2-60ca-4aad-9370-72cebd687e9f.png) alt="YoelGH97" height="30" width="40"</a>
 <a href="https://www.instagram.com/yoel_gh97/">Instagram</a>
 - E-mail: yoelgasca@hotmail.com
 <!---
