@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/YoelGH97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YoelGH97" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yoel_gh97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoel_gh97" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yoel.gascahorta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="YoelGasca" height="30" width="40" /></a>
 <a href="linkedin.com/in/yoel-gasca-horta-1586321a9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="YoelGasca" height="30" width="40" /></a>
 <a href="https://discord.gg/C7Jnrfuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yoel_GH97" height="30" width="40" /></a>
 </p>
