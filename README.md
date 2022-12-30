@@ -46,7 +46,32 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a>
 <!--PHP-->
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40" height="40"/> </a>
-
+<!--MySQL-->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" alt="MySQL" width="40" height="40"/> </a>
+<!--Apache Server-->
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="ApacheServer" width="40" height="40"/> </a>
+<!--Wamp-->
+<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="Wamp" width="40" height="40"/> </a>
+<!--MongoDB-->
+<a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40"/> </a>
+<!--Windows-->
+<a href="https://www.microsoft.com/es-xl/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/> </a>
+<!--Ubuntu-->
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" width="40" height="40"/> </a>
+<!--PrestaShop-->
+<a href="https://www.prestashop.com/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" alt="PrestaShop" width="40" height="40"/> </a>
+<!--Jupyter-->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a>
+<!--Git-->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/> </a>
+<!--Docker-->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40"/> </a>
+<!--Figma-->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> </a>
+<!--Vuforia-->
+<a href="https://developer.vuforia.com/" target="_blank" rel="noreferrer"> <img src="https://www.glitchr-studio.com/wp-content/uploads/2016/07/vuforia-300x300.png" alt="Vuforia" width="40" height="40"/> </a>
+<!--Postman-->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
 
 <!---
 Yoel-Gasca/Yoel-Gasca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
