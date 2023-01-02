@@ -1,7 +1,9 @@
 # About me
-- 👋 Hi, I’m @Yoel-Gasca
+<h1>👋 Hi, I’m @Yoel-Gasca</h1><br>
+
 - 🎊  I'm 25 years old
-- 👀 I’m interested in Web Development, Video Games and Virtual Environments
+- 👀 I’m interested in Web Development
+- 🎮 I'm also interested Video Games and Virtual Environments Development
 - 🌱 I’m currently learning Fullstack development
 - 💞️ I like to collaborate on innovative projects
 <br>
