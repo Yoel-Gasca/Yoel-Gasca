@@ -11,7 +11,7 @@
 ##
  [![trophy](https://github-profile-trophy.vercel.app/?username=Yoel-Gasca&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Contact
+## Contact
 <h3>Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/YoelGH97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YoelGH97" height="30" width="40" /></a>
