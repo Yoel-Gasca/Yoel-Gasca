@@ -8,6 +8,9 @@
 - 💞️ I like to collaborate on innovative projects
 <br>
 
+##
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Yoel-Gasca&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Contact
 <h3>Connect with me:</h3>
 <p align="left">
@@ -19,6 +22,7 @@
 
 - E-mail: yoelgasca@hotmail.com
 
+##
 <h3>Languages and Tools:</h3>
 <!--C#-->
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="cs" width="40" height="40"/> </a>
@@ -75,6 +79,7 @@
 <!--Postman-->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
 
+ 
 <!---
 Yoel-Gasca/Yoel-Gasca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
