@@ -60,6 +60,8 @@
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/WampServer-logo.svg" alt="Wamp" width="40" height="40"/> </a>
 <!--MongoDB-->
 <a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40"/> </a>
+ <!--Firebase-->
+<a href="https://console.firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="MongoDB" width="40" height="40"/> </a>
 <!--Windows-->
 <a href="https://www.microsoft.com/es-xl/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/> </a>
 <!--Ubuntu-->
