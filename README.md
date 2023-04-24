@@ -8,7 +8,7 @@
 - 💞️ I like to collaborate on innovative projects
 <br>
 
-<h3 align="center"><a href="https://yoel-gasca.github.io/Yoel-GascaWeb/">See the web portfolio</a></h3>
+<h3 align="center"><a href="https://yoel-gasca.github.io/Yoel-GascaWeb/">See the web portfolio💼🌐</a></h3>
 
 ##
  [![trophy](https://github-profile-trophy.vercel.app/?username=Yoel-Gasca&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
