@@ -41,13 +41,17 @@
 <!--HTML-->
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a>
 <!--CSS-->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="Css" width="40" height="40"/> </a>
 <!--Bootstrap-->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/
 <!--TS-->                                                                          
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/> </a>
 <!--Angular-->
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40"/> </a>
+ <!--Vite-->
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="ExpressJS" width="40" height="40"/> </a>
+<!--ExtressJS-->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://softprodigy.com/wp-content/uploads/2019/07/express-js.png" alt="azure" width="40" height="40"/> </a>
 <!--Python-->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <!--Azure-->
@@ -81,7 +85,7 @@
 <!--Figma-->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> </a>
 <!--Vuforia-->
-<a href="https://developer.vuforia.com/" target="_blank" rel="noreferrer"> <img src="https://www.glitchr-studio.com/wp-content/uploads/2016/07/vuforia-300x300.png" alt="Vuforia" width="40" height="40"/> </a>
+<a href="https://developer.vuforia.com/" target="_blank" rel="noreferrer"> <img src="https://media.trustradius.com/product-logos/tS/vo/8PNSNQFENZ52-180x180.PNG" alt="Vuforia" width="40" height="40"/> </a>
 <!--Postman-->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
 
