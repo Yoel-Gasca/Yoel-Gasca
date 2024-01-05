@@ -39,6 +39,8 @@
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" width="40" height="40"/> </a>
 <!--Node.JS-->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<!--Python-->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <!--HTML-->
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a>
 <!--CSS-->
@@ -53,8 +55,20 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/> </a>
 <!--ExtressJS-->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
-<!--Python-->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<!--Flask-->
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://flask-es.readthedocs.io/_static/flask-vertical.png" alt="Flask" width="40" height="40"/> </a>
+<!--Pandas-->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/> </a>
+<!--Scikit-learn-->
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+<!--Scipy-->
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="Scipy" width="40" height="40"/> </a>
+<!--Matplotlib-->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
+<!--Seaborn-->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+<!--Plotly-->
+<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.a46845e6-ce94-44cf-892b-54637c6fcf06" alt="Plotly" width="40" height="40"/> </a>
 <!--Azure-->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="40" height="40"/> </a>
 <!--VSCode-->
@@ -72,7 +86,7 @@
 <!--MongoDB-->
 <a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40"/> </a>
  <!--Firebase-->
-<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="MongoDB" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v8332a5cec2b627575422eb634078b4a9892f3eac6f9006e54b6e9bbf0bfda91f/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/> </a>
 <!--Windows-->
 <a href="https://www.microsoft.com/es-xl/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/> </a>
 <!--Ubuntu-->
