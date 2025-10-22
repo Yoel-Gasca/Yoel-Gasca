@@ -1,8 +1,8 @@
 # About me
 <h1 align="center">👋 Hi, I’m @Yoel-Gasca</h1><br>
 
-- 🎊  I'm 27 years old
-- 👀 I’m interested in Web Development
+- 🎊  I'm 28 years old
+- 👀 I’m interested in Web Development, Data Science and Machine Learning
 - 🎮 I'm also interested Video Games and Virtual Environments Development
 - 🌱 I’m currently learning Fullstack development
 - 💞️ I like to collaborate on innovative projects
