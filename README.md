@@ -50,9 +50,9 @@
 <!--TS-->                                                                          
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/> </a>
 <!--Angular-->
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" alt="Angular" width="40" height="40"/> </a>
  <!--Vite-->
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="40" height="40"/> </a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="40" height="40"/> </a>
 <!--ExtressJS-->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
 <!--Flask-->
@@ -86,7 +86,7 @@
 <!--MongoDB-->
 <a href="https://www.mongodb.com/home" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40"/> </a>
  <!--Firebase-->
-<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v8332a5cec2b627575422eb634078b4a9892f3eac6f9006e54b6e9bbf0bfda91f/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/New_Firebase_logo.svg" alt="Firebase" width="40" height="40"/> </a>
 <!--Windows-->
 <a href="https://www.microsoft.com/es-xl/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/> </a>
 <!--Ubuntu-->
