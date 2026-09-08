@@ -29,25 +29,18 @@
 <h3>Languages and Tools:</h3>
 <!--C#-->
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="40" height="40"/> </a>
-
 <!--Unity-->
 <a href="https://unity.com/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="40" height="40"/> </a>
-
 <!--C++-->
 <a href="https://learn.microsoft.com/es-es/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a>
-
 <!--JS-->
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"/> </a>
-
 <!--React-->
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" width="40" height="40"/> </a>
-
 <!--Node.JS-->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
 <!--Python-->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-
 <!--HTML-->
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/> </a>
 <!--CSS-->
